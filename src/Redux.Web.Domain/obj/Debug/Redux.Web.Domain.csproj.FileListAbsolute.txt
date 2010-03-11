@@ -1,0 +1,5 @@
+C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.Domain\bin\Debug\Redux.Web.Domain.dll
+C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.Domain\bin\Debug\Redux.Web.Domain.pdb
+C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.Domain\obj\Debug\Redux.Web.Domain.dll
+C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.Domain\obj\Debug\Redux.Web.Domain.pdb
