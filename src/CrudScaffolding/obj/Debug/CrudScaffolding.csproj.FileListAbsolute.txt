@@ -12,3 +12,10 @@ C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Applicatio
 C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\CrudScaffolding\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\CrudScaffolding\obj\Debug\Redux.CrudScaffolding.dll
 C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\CrudScaffolding\obj\Debug\Redux.CrudScaffolding.pdb
+C:\git\ReduxArch-Web-Application\src\CrudScaffolding\bin\Debug\Redux.CrudScaffolding.dll
+C:\git\ReduxArch-Web-Application\src\CrudScaffolding\bin\Debug\Redux.CrudScaffolding.pdb
+C:\git\ReduxArch-Web-Application\src\CrudScaffolding\bin\Debug\Inflector.Net.dll
+C:\git\ReduxArch-Web-Application\src\CrudScaffolding\bin\Debug\ReduxArch.Core.dll
+C:\git\ReduxArch-Web-Application\src\CrudScaffolding\obj\Debug\ResolveAssemblyReference.cache
+C:\git\ReduxArch-Web-Application\src\CrudScaffolding\obj\Debug\Redux.CrudScaffolding.dll
+C:\git\ReduxArch-Web-Application\src\CrudScaffolding\obj\Debug\Redux.CrudScaffolding.pdb

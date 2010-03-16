@@ -23,3 +23,35 @@ C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Applicatio
 C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.UI\bin\Redux.Web.Shared.pdb
 C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.UI\obj\Debug\Redux.Web.UI.dll
 C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.UI\obj\Debug\Redux.Web.UI.pdb
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.UI.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.UI.pdb
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Elmah.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Ninject.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Ninject.Web.Mvc.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.Domain.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.Membership.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.Shared.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\ReduxArch.Core.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\ReduxArch.Data.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\ReduxArch.Membership.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\ReduxArch.Util.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\NHibernate.Linq.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\AutoMapper.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\NHibernate.Search.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Castle.DynamicProxy2.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Castle.Core.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Iesi.Collections.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.Repositories.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\NHibernate.ByteCode.Castle.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Castle.ActiveRecord.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\AntiXSSLibrary.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\log4net.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Castle.Components.Validator.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\NHibernate.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.Membership.pdb
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.Domain.pdb
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.Repositories.pdb
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\bin\Redux.Web.Shared.pdb
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\obj\Debug\Redux.Web.UI.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.UI\obj\Debug\Redux.Web.UI.pdb

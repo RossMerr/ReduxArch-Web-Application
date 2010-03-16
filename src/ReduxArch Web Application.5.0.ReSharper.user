@@ -1,0 +1,284 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Models/f:SmtpClientProxy.cs" caret="283" fromTop="11" />
+      <File id="d:Miscellaneous Files/f:CastleSession.cs/l:C!?git?Redux-Architecture?src?ReduxArch.Data?Castle.ActiveRecord?CastleSession.cs" caret="668" fromTop="26" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Views/d:Setup/f:Index.aspx" caret="796" fromTop="22" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Views/d:Shared/f:Site.Master" caret="1038" fromTop="25" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Views/f:Web.config" caret="1525" fromTop="30" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Controllers/f:SetupController.cs" caret="227" fromTop="8" />
+      <File id="F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD/d:UserAccount/f:IUserAccountRepository.cs" caret="305" fromTop="9" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Models/d:Account/f:LogOnModel.cs" caret="396" fromTop="15" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Models/d:Account/f:ChangePasswordModel.cs" caret="256" fromTop="9" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Models/d:Account/f:RegisterModel.cs" caret="754" fromTop="20" />
+      <File id="E0EEC577-5EF1-42E0-96A6-0B1A47A0E7D9/d:Modules/f:DomainModule.cs" caret="285" fromTop="10" />
+      <File id="E0EEC577-5EF1-42E0-96A6-0B1A47A0E7D9/f:BaseController.cs" caret="379" fromTop="18" />
+      <File id="d:Miscellaneous Files/f:AccountMembershipService.cs/l:C!?git?Redux-Architecture?src?Redux.Membership?AccountMembershipService.cs" caret="263" fromTop="9" />
+      <File id="d:Miscellaneous Files/f:ReduxMembershipProvider.cs/l:C!?git?Redux-Architecture?src?Redux.Membership?ReduxMembershipProvider.cs" caret="21629" fromTop="21" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Controllers/f:HomeController.cs" caret="314" fromTop="13" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/d:Controllers/f:AccountController.cs" caret="5244" fromTop="28" />
+      <File id="d:Miscellaneous Files/f:CastleSessionModule.cs/l:C!?git?Redux-Architecture?src?ReduxArch.Data?Castle.ActiveRecord?CastleSessionModule.cs" caret="998" fromTop="32" />
+      <File id="d:Miscellaneous Files/f:NinjectControllerFactory.cs/l:C!?Users?rmerrigan.OTMCREATE?Downloads?enkari-ninject.web.mvc-85d5ba0?enkari-ninject.web.mvc-85d5ba0?mvc2?src?Ninject.Web.Mvc?NinjectControllerFactory.cs" caret="1027" fromTop="10" />
+      <File id="d:Miscellaneous Files/f:RegisterTypes.cs/l:C!?git?Redux-Architecture?src?ReduxArch.Data?Castle.ActiveRecord?RegisterTypes.cs" caret="869" fromTop="24" />
+      <File id="F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD/d:UserAccount/f:UserAccountFactory.cs" caret="575" fromTop="12" />
+      <File id="DACFFD0C-6C05-40B1-AD4A-840ED51B990C/f:UserAccountRepository.cs" caret="804" fromTop="16" />
+      <File id="d:Miscellaneous Files/f:ActiveRecordLinqContext.cs/l:C!?git?Redux-Architecture?src?ReduxArch.Data?Castle.ActiveRecord?ActiveRecordLinqContext.cs" caret="1159" fromTop="19" />
+      <File id="A8AE9050-AEA7-4195-BAE9-0777BCED44A0/f:UserMembershipProvider.cs" caret="864" fromTop="19" />
+      <File id="E0EEC577-5EF1-42E0-96A6-0B1A47A0E7D9/f:EntitiesRegistration.cs" caret="388" fromTop="12" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:App.config" caret="1518" fromTop="22" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="907" fromTop="19" />
+      <File id="F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD/d:UserAccount/f:UserAccountModel.cs" caret="431" fromTop="15" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:UserAccountModelTestCase.cs" caret="1552" fromTop="31" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/f:Global.asax.cs" caret="299" fromTop="13" />
+      <File id="EF5D2545-3B9E-4104-918D-D8E725CCE305/f:Web.config" caret="3295" fromTop="35" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:UserAccountModelTestCase.cs" caret="334" fromTop="13" />
+      <File id="F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD/d:UserAccount/f:UserAccountModel.cs" caret="329" fromTop="11" />
+      <File id="F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD/d:UserAccount/f:UserAccountModel.cs" caret="2502" fromTop="30" />
+      <File id="F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD/d:UserAccount/f:UserAccountModel.cs" caret="2356" fromTop="11" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1410" fromTop="3" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1410" fromTop="23" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1410" fromTop="30" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1410" fromTop="29" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1410" fromTop="34" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1410" fromTop="41" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1410" fromTop="17" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:App.config" caret="467" fromTop="4" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:App.config" caret="3013" fromTop="41" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:App.config" caret="2803" fromTop="30" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:App.config" caret="1518" fromTop="22" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:App.config" caret="948" fromTop="12" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:App.config" caret="1497" fromTop="20" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1410" fromTop="11" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1410" fromTop="13" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="0" fromTop="0" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1325" fromTop="26" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="956" fromTop="10" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="1075" fromTop="16" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="775" fromTop="7" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:AbstractModelTestCase.cs" caret="717" fromTop="28" />
+      <File id="F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD/d:UserAccount/f:UserAccountModel.cs" caret="2798" fromTop="16" />
+      <File id="F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD/d:UserAccount/f:UserAccountModel.cs" caret="431" fromTop="15" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:UserAccountModelTestCase.cs" caret="1577" fromTop="30" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:UserAccountModelTestCase.cs" caret="1880" fromTop="35" />
+      <File id="AE5A7F61-2D62-4594-8EEF-9000786E12FE/f:UserAccountModelTestCase.cs" caret="1165" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="10" />
+      <Item value="PrimaryKey" priority="0" />
+      <Item value="Property" priority="16" />
+      <Item value="User" priority="1" />
+      <Item value="this" priority="2" />
+      <Item value="UserAccount" priority="13" />
+      <Item value="System" priority="1" />
+      <Item value="Web" priority="3" />
+      <Item value="Security" priority="1" />
+      <Item value="Authentication" priority="0" />
+      <Item value="Membership" priority="0" />
+      <Item value="Ninject" priority="0" />
+      <Item value="Modules" priority="0" />
+      <Item value="NinjectModule" priority="0" />
+      <Item value="ReduxArch" priority="1" />
+      <Item value="Data" priority="1" />
+      <Item value="Core" priority="0" />
+      <Item value="Castle" priority="0" />
+      <Item value="ActiveRecord" priority="0" />
+      <Item value="CastleRepository" priority="0" />
+      <Item value="UserAccountRepository" priority="10" />
+      <Item value="Guid" priority="1" />
+      <Item value="Serializable" priority="0" />
+      <Item value="DomainSignature" priority="0" />
+      <Item value="protected" priority="1" />
+      <Item value="interface" priority="0" />
+      <Item value="static" priority="3" />
+      <Item value="return" priority="10" />
+      <Item value="new" priority="6" />
+      <Item value="void" priority="1" />
+      <Item value="UserAccountTestCase" priority="0" />
+      <Item value="private" priority="3" />
+      <Item value="Comment" priority="0" />
+      <Item value="UserAccountFactory" priority="0" />
+      <Item value="TimeZoneInfo" priority="0" />
+      <Item value="Redux" priority="0" />
+      <Item value="Domain" priority="0" />
+      <Item value="ActiveRecordMediator" priority="0" />
+      <Item value="ActiveRecordStarter" priority="0" />
+      <Item value="typeof" priority="4" />
+      <Item value="UserAccountEntity" priority="2" />
+      <Item value="holder" priority="0" />
+      <Item value="IUserAccountRepository" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="UserAccount`0" priority="10" />
+      <Item value="var" priority="3" />
+      <Item value="userAccount" priority="0" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="abstract" priority="0" />
+      <Item value="IUser`0" priority="0" />
+      <Item value="Guid`0" priority="1" />
+      <Item value="string" priority="3" />
+      <Item value="username" priority="3" />
+      <Item value="password" priority="2" />
+      <Item value="email" priority="6" />
+      <Item value="passwordQuestion" priority="1" />
+      <Item value="questionAnswer" priority="1" />
+      <Item value="isApproved" priority="1" />
+      <Item value="salt" priority="2" />
+      <Item value="Username" priority="0" />
+      <Item value="Email" priority="0" />
+      <Item value="PasswordQuestion" priority="0" />
+      <Item value="QuestionAnswer" priority="0" />
+      <Item value="Salt" priority="0" />
+      <Item value="Password" priority="0" />
+      <Item value="Row" priority="1" />
+      <Item value="true" priority="1" />
+      <Item value="name" priority="1" />
+      <Item value="user" priority="8" />
+      <Item value="IUserAccountRepository`0" priority="1" />
+      <Item value="AbstractTestCase`0" priority="0" />
+      <Item value="Assert`0" priority="2" />
+      <Item value="newUser" priority="2" />
+      <Item value="activeRecordLinqContext" priority="0" />
+      <Item value="context" priority="2" />
+      <Item value="ActiveRecordLinqContext" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="where" priority="1" />
+      <Item value="users" priority="1" />
+      <Item value="select" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="results" priority="7" />
+      <Item value="else" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="encodePasswordQuestionAnswer" priority="1" />
+      <Item value="pageIndex" priority="0" />
+      <Item value="pageSize" priority="0" />
+      <Item value="period" priority="0" />
+      <Item value="registration" priority="3" />
+      <Item value="EntitiesRegistration" priority="0" />
+      <Item value="UserFactory" priority="0" />
+      <Item value="cmsUser" priority="0" />
+      <Item value="Util" priority="0" />
+      <Item value="Encryption" priority="0" />
+      <Item value="Hash`0" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="Lazy" priority="0" />
+      <Item value="UserAccountModel`0" priority="1" />
+      <Item value="internal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Security.Membership">
+      <Item value="Provider" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Redux.Web.Domain.UserAccount.UserAccountFactory">
+      <Item value="CreateUserAccount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Redux.Web.Domain.UserAccount.UserAccount">
+      <Item value="UserAccountFactory" priority="0" />
+      <Item value="CreateUserAccount`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.ActiveRecord.ActiveRecordMediator">
+      <Item value="GetSessionFactoryHolder" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.ActiveRecord.ActiveRecordStarter">
+      <Item value="RegisterTypes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.ActiveRecord.Framework.ISessionFactoryHolder">
+      <Item value="RegisterSessionFactory" priority="0" />
+      <Item value="GetConfiguration" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="UtcNow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ReduxArch.Data.Castle.ActiveRecord.RegisterTypes">
+      <Item value="Register`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Redux.Web.Shared.RegisterEntities">
+      <Item value="Register`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Redux.Web.Domain.UserAccount.IUserAccountRepository">
+      <Item value="SaveOrUpdate`0" priority="8" />
+      <Item value="Get`0" priority="2" />
+      <Item value="GetByUsername`0" priority="2" />
+      <Item value="Delete`0" priority="0" />
+      <Item value="GetByEmailAddress`0" priority="0" />
+      <Item value="GetAll`0" priority="0" />
+      <Item value="GetNumberOfUsersOnline`0" priority="0" />
+      <Item value="GetByUsernameAndQuestionAnswer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Redux.Web.Domain.UserAccount.UserAccount">
+      <Item value="Id" priority="1" />
+      <Item value="Username" priority="3" />
+      <Item value="Email" priority="2" />
+      <Item value="Password" priority="0" />
+      <Item value="QuestionAnswer" priority="0" />
+      <Item value="ChangePassword`0" priority="0" />
+      <Item value="ChangePasswordQuestionAndAnswer`0" priority="0" />
+      <Item value="ResetPassword`0" priority="0" />
+      <Item value="UnlockUser`0" priority="0" />
+      <Item value="UpdateUser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MbUnit.Framework.Assert">
+      <Item value="IsNotNull`0" priority="0" />
+      <Item value="IsTrue`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OTM.CMS.DataAccessLayer.ActiveRecordLinqContext">
+      <Item value="Session" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Linq`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Count`1" priority="1" />
+      <Item value="ElementAt`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReduxArch.Data.Castle.ActiveRecord.EntitiesRegistration">
+      <Item value="CreateSchema`0" priority="0" />
+      <Item value="DropSchema`0" priority="0" />
+      <Item value="PostCreateSchema" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Redux.Web.Shared.EntitiesRegistration">
+      <Item value="CreateSchema`0" priority="0" />
+      <Item value="DropSchema`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Redux.Web.Shared.EntitiesRegistration">
+      <Item value="CreateSchema`0" priority="0" />
+      <Item value="DropSchema`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Redux.Web.Shared.UserMembershipProvider">
+      <Item value="UserFactory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpApplication">
+      <Item value="BeginRequest" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Redux.Web.Domain.UserAccount.UserAccountModel">
+      <Item value="CreateUserAccount`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Redux.Web.Domain.UserAccount.UserAccountModel">
+      <Item value="PasswordQuestion" priority="0" />
+      <Item value="QuestionAnswer" priority="0" />
+      <Item value="Salt" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
