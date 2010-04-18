@@ -14,3 +14,24 @@ C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Applicatio
 C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.Repositories\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.Repositories\obj\Debug\Redux.Web.Repositories.dll
 C:\Users\rossmwee\Documents\Visual Studio 2008\Projects\ReduxArch Web Application\src\Redux.Web.Repositories\obj\Debug\Redux.Web.Repositories.pdb
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\Redux.Web.Repositories.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\Redux.Web.Repositories.pdb
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\Castle.ActiveRecord.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\NHibernate.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\NHibernate.Linq.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\Redux.Web.Domain.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\ReduxArch.Core.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\ReduxArch.Data.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\Castle.Components.Validator.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\Castle.Core.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\Iesi.Collections.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\NHibernate.Search.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\log4net.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\AutoMapper.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\AntiXSSLibrary.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\Castle.DynamicProxy2.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\bin\Debug\Redux.Web.Domain.pdb
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\obj\Debug\ResolveAssemblyReference.cache
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\obj\Debug\Redux.Web.Repositories.dll
+C:\git\ReduxArch-Web-Application\src\Redux.Web.Repositories\obj\Debug\Redux.Web.Repositories.pdb

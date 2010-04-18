@@ -12,7 +12,7 @@
 
         <div id="header">
             <div id="title">
-                <h1>My MVC Application</h1>
+                <h1>Redux Architecture</h1>
             </div>
               
             <div id="logindisplay">
@@ -24,6 +24,7 @@
                 <ul id="menu">              
                     <li><%= Html.ActionLink("Home", "Index", "Home")%></li>
                     <li><%= Html.ActionLink("About", "About", "Home")%></li>
+                    <li><%= Html.ActionLink("Setup", "Index", "Setup")%></li>
                 </ul>
             
             </div>

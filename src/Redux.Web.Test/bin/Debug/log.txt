@@ -1,0 +1,40 @@
+2010-03-16 13:25:52,522 [7] INFO  NHibernate.Cfg.Environment [(null)] &lt;(null)&gt; - NHibernate 2.1.2.4000 (2.1.2.4000)
+2010-03-16 13:25:52,697 [7] INFO  NHibernate.Cfg.Environment [(null)] &lt;(null)&gt; - hibernate-configuration section not found in application configuration file
+2010-03-16 13:25:52,700 [7] INFO  NHibernate.Cfg.Environment [(null)] &lt;(null)&gt; - Bytecode provider name : lcg
+2010-03-16 13:25:52,700 [7] INFO  NHibernate.Cfg.Environment [(null)] &lt;(null)&gt; - Using reflection optimizer
+2010-03-16 13:27:44,712 [7] INFO  NHibernate.Cfg.Environment [(null)] &lt;(null)&gt; - NHibernate 2.1.2.4000 (2.1.2.4000)
+2010-03-16 13:27:44,877 [7] INFO  NHibernate.Cfg.Environment [(null)] &lt;(null)&gt; - hibernate-configuration section not found in application configuration file
+2010-03-16 13:27:44,877 [7] INFO  NHibernate.Cfg.Environment [(null)] &lt;(null)&gt; - Bytecode provider name : lcg
+2010-03-16 13:27:44,879 [7] INFO  NHibernate.Cfg.Environment [(null)] &lt;(null)&gt; - Using reflection optimizer
+2010-03-16 13:27:45,224 [7] INFO  NHibernate.Dialect.Dialect [(null)] &lt;(null)&gt; - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2010-03-16 13:27:45,324 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - checking mappings queue
+2010-03-16 13:27:45,324 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing one-to-many association mappings
+2010-03-16 13:27:45,324 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing one-to-one association property references
+2010-03-16 13:27:45,324 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing foreign key constraints
+2010-03-16 13:27:45,324 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing filters (second pass)
+2010-03-16 13:27:45,339 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - checking mappings queue
+2010-03-16 13:27:45,339 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing one-to-many association mappings
+2010-03-16 13:27:45,339 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing one-to-one association property references
+2010-03-16 13:27:45,339 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing foreign key constraints
+2010-03-16 13:27:45,339 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing filters (second pass)
+2010-03-16 13:27:45,347 [7] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] &lt;(null)&gt; - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2010-03-16 13:27:45,347 [7] INFO  NHibernate.Connection.ConnectionProvider [(null)] &lt;(null)&gt; - Configuring ConnectionProvider
+2010-03-16 13:27:45,449 [7] DEBUG NHibernate.Connection.DriverConnectionProvider [(null)] &lt;(null)&gt; - Obtaining IDbConnection from Driver
+2010-03-16 13:27:46,118 [7] DEBUG NHibernate.Connection.ConnectionProvider [(null)] &lt;(null)&gt; - Closing connection
+2010-03-16 13:27:46,137 [7] DEBUG NHibernate.Connection.ConnectionProvider [(null)] &lt;(null)&gt; - Disposing of ConnectionProvider.
+2010-03-16 13:27:46,162 [7] INFO  NHibernate.Dialect.Dialect [(null)] &lt;(null)&gt; - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - checking mappings queue
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing one-to-many association mappings
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing one-to-one association property references
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing foreign key constraints
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing filters (second pass)
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - checking mappings queue
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing one-to-many association mappings
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing one-to-one association property references
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing foreign key constraints
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Cfg.Configuration [(null)] &lt;(null)&gt; - processing filters (second pass)
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] &lt;(null)&gt; - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2010-03-16 13:27:46,163 [7] INFO  NHibernate.Connection.ConnectionProvider [(null)] &lt;(null)&gt; - Configuring ConnectionProvider
+2010-03-16 13:27:46,163 [7] DEBUG NHibernate.Connection.DriverConnectionProvider [(null)] &lt;(null)&gt; - Obtaining IDbConnection from Driver
+2010-03-16 13:27:46,165 [7] DEBUG NHibernate.Connection.ConnectionProvider [(null)] &lt;(null)&gt; - Closing connection
+2010-03-16 13:27:46,165 [7] DEBUG NHibernate.Connection.ConnectionProvider [(null)] &lt;(null)&gt; - Disposing of ConnectionProvider.
