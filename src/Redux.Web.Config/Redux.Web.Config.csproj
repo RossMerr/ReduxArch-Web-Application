@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{DACFFD0C-6C05-40B1-AD4A-840ED51B990C}</ProjectGuid>
+    <ProjectGuid>{74332C70-B888-491E-A221-8BA85A848E79}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Redux.Web.Repositories</RootNamespace>
-    <AssemblyName>Redux.Web.Repositories</AssemblyName>
+    <RootNamespace>Redux.Web.Config</RootNamespace>
+    <AssemblyName>Redux.Web.Config</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -31,17 +31,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Castle.ActiveRecord, Version=2.1.2.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+    <Reference Include="AutoMapper, Version=1.0.0.155, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\bin\Castle.ActiveRecord.dll</HintPath>
+      <HintPath>..\..\bin\AutoMapper.dll</HintPath>
     </Reference>
-    <Reference Include="NHibernate, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+    <Reference Include="Ninject, Version=2.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\bin\NHibernate.dll</HintPath>
-    </Reference>
-    <Reference Include="NHibernate.Linq, Version=1.1.0.1001, Culture=neutral, PublicKeyToken=444cf6a87fdab271, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\bin\NHibernate.Linq.dll</HintPath>
+      <HintPath>..\..\bin\Ninject.dll</HintPath>
     </Reference>
     <Reference Include="ReduxArch.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -55,7 +51,7 @@
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
-    <Reference Include="System.Data.Services" />
+    <Reference Include="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml.Linq">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
@@ -66,13 +62,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AutoMapperConfiguration.cs" />
+    <Compile Include="BaseController.cs" />
+    <Compile Include="EntitiesRegistration.cs" />
+    <Compile Include="Modules\DomainModule.cs" />
+    <Compile Include="Modules\ServiceModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserAccountRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Redux.Web.Domain\Redux.Web.Domain.csproj">
       <Project>{F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD}</Project>
       <Name>Redux.Web.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Redux.Web.Repositories\Redux.Web.Repositories.csproj">
+      <Project>{DACFFD0C-6C05-40B1-AD4A-840ED51B990C}</Project>
+      <Name>Redux.Web.Repositories</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

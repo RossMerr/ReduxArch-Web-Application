@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using Ninject;
+using Redux.Membership;
+using Redux.Web.Config.Modules;
 using Redux.Web.Domain.UserAccount;
-using Redux.Web.Shared.Modules;
 using ReduxArch.Data.Interface;
-using ReduxArch.Membership;
 
 namespace Redux.Web.Membership
 {
@@ -13,8 +13,14 @@ namespace Redux.Web.Membership
         public UserMembershipProvider()
         {
             IKernel kernel = new StandardKernel(new DomainModule());
+            
             UserFactory = kernel.Get<IUserFactory<UserAccountModel, Guid>>();
             UserAccountRepository = kernel.Get<IUserAccountRepository>(); 
+        }
+
+        public override UserAccountModel GetUser(string username)
+        {
+            return UserAccountRepository.GetByUsername(username);
         }
 
         public override UserAccountModel GetUserByEmail(string email)

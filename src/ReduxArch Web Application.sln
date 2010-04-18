@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CRUD", "CRUD", "{938955CF-92EB-4700-95A3-009B3935503F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux.Web.UI", "Redux.Web.UI\Redux.Web.UI.csproj", "{EF5D2545-3B9E-4104-918D-D8E725CCE305}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux.Web.Repositories", "Redux.Web.Repositories\Redux.Web.Repositories.csproj", "{DACFFD0C-6C05-40B1-AD4A-840ED51B990C}"
@@ -13,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux.Web.Shared", "Redux.W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux.Web.Tests", "Redux.Web.Test\Redux.Web.Tests.csproj", "{AE5A7F61-2D62-4594-8EEF-9000786E12FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudScaffolding", "CrudScaffolding\CrudScaffolding.csproj", "{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux.Web.Membership", "Redux.Web.Membership\Redux.Web.Membership.csproj", "{A8AE9050-AEA7-4195-BAE9-0777BCED44A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux.Web.Config", "Redux.Web.Config\Redux.Web.Config.csproj", "{74332C70-B888-491E-A221-8BA85A848E79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,16 +75,6 @@ Global
 		{AE5A7F61-2D62-4594-8EEF-9000786E12FE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{AE5A7F61-2D62-4594-8EEF-9000786E12FE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{AE5A7F61-2D62-4594-8EEF-9000786E12FE}.Release|x86.ActiveCfg = Release|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119}.Release|x86.ActiveCfg = Release|Any CPU
 		{A8AE9050-AEA7-4195-BAE9-0777BCED44A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A8AE9050-AEA7-4195-BAE9-0777BCED44A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8AE9050-AEA7-4195-BAE9-0777BCED44A0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
@@ -97,11 +85,18 @@ Global
 		{A8AE9050-AEA7-4195-BAE9-0777BCED44A0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{A8AE9050-AEA7-4195-BAE9-0777BCED44A0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{A8AE9050-AEA7-4195-BAE9-0777BCED44A0}.Release|x86.ActiveCfg = Release|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{74332C70-B888-491E-A221-8BA85A848E79}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{F9EBF6B7-DDD5-49B9-9DC7-CF48EACE1119} = {938955CF-92EB-4700-95A3-009B3935503F}
 	EndGlobalSection
 EndGlobal

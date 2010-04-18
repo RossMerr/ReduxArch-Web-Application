@@ -1,16 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
 using Castle.ActiveRecord;
 using ReduxArch.Core.DomainModel;
-using ReduxArch.Data;
 using ReduxArch.Data.Interface;
 
 namespace Redux.Web.Domain.UserAccount
 {
-    [ActiveRecord(Lazy = true)]
+    [ActiveRecord(Table = "UserAccount", Lazy = true)]
     [Serializable]
     public class UserAccountModel : User<Guid>
     {     

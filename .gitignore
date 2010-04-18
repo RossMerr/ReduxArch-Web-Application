@@ -9,3 +9,11 @@ src/_ReSharper.ReduxArch Web Application/
 src/_ReSharper.ReduxArch Web Application/TodoCache/
 src/_ReSharper.ReduxArch Web Application/TodoCache/.version
 src/_ReSharper.ReduxArch Web Application/WebsiteFileReferences/.version
+src/Redux.Web.Config/bin/
+src/Redux.Web.Config/obj/Debug/
+src/Redux.Web.Membership/bin/Debug/
+src/Redux.Web.Repositories/bin/
+src/Redux.Web.Test/bin/
+src/Redux.Web.UI/bin/
+src/Redux.Web.Domain/bin/
+src/Redux.Web.Domain/bin/

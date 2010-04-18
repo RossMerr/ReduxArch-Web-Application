@@ -7,8 +7,8 @@ using System.Web.Mvc;
 using System.Web.Routing;
 using Ninject;
 using Ninject.Web.Mvc;
-using Redux.Web.Shared;
-using Redux.Web.Shared.Modules;
+using Redux.Web.Config;
+using Redux.Web.Config.Modules;
 
 namespace Redux.Web.UI
 {
@@ -21,6 +21,8 @@ namespace Redux.Web.UI
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+            AreaRegistration.RegisterAllAreas();
+
             routes.MapRoute(
                 "Default", // Route name
                 "{controller}/{action}/{id}", // URL with parameters
@@ -32,14 +34,14 @@ namespace Redux.Web.UI
         protected override void OnApplicationStarted()
         {
             EntitiesRegistration.RegisterAllEntities();
-            AreaRegistration.RegisterAllAreas();
             RegisterRoutes(RouteTable.Routes);
             RegisterAllControllersIn(Assembly.GetExecutingAssembly());
+            AutoMapperConfiguration.Configure();
         }
 
         protected override IKernel CreateKernel()
         {
-            return new StandardKernel(new DomainModule());
+            return new StandardKernel(new DomainModule(), new ServiceModule());
         }
     }
 }

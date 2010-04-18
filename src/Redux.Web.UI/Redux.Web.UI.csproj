@@ -1,22 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{EF5D2545-3B9E-4104-918D-D8E725CCE305}</ProjectGuid>
-
+    <ProjectTypeGuids>{F85E285D-A4E0-4152-9332-AB1D724D3325};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Redux.Web.UI</RootNamespace>
     <AssemblyName>Redux.Web.UI</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
-    <FileUpgradeFlags>
-    </FileUpgradeFlags>
-    <OldToolsVersion>3.5</OldToolsVersion>
-    <UpgradeBackupLocation />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -99,9 +95,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\Account\ChangePasswordModel.cs" />
-    <Compile Include="Models\Account\LogOnModel.cs" />
-    <Compile Include="Models\Account\RegisterModel.cs" />
     <Compile Include="Models\ISmtpClient.cs" />
     <Compile Include="Models\SmtpClientProxy.cs" />
     <Compile Include="Models\UserAdministration\DetailsViewModel.cs" />
@@ -112,10 +105,18 @@
   <ItemGroup>
     <Content Include="Content\MvcMembership\MvcMembership.css" />
     <Content Include="Global.asax" />
-    <Content Include="Views\Account\ChangePassword.aspx" />
-    <Content Include="Views\Account\ChangePasswordSuccess.aspx" />
-    <Content Include="Views\Account\LogOn.aspx" />
-    <Content Include="Views\Account\Register.aspx" />
+    <Content Include="Views\Account\ChangePassword.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Views\Account\ChangePasswordSuccess.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Views\Account\LogOn.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Views\Account\Register.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
     <Content Include="Views\Setup\Index.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
@@ -143,6 +144,10 @@
     <Content Include="Views\Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Redux.Web.Config\Redux.Web.Config.csproj">
+      <Project>{74332C70-B888-491E-A221-8BA85A848E79}</Project>
+      <Name>Redux.Web.Config</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Redux.Web.Domain\Redux.Web.Domain.csproj">
       <Project>{F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD}</Project>
       <Name>Redux.Web.Domain</Name>
@@ -174,7 +179,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>62185</DevelopmentServerPort>
+          <DevelopmentServerPort>60288</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>

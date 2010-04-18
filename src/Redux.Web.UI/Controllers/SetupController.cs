@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using Redux.Web.Shared;
+using Redux.Web.Config;
 
 namespace Redux.Web.UI.Controllers
 {

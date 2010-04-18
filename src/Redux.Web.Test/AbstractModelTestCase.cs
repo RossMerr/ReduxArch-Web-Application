@@ -5,9 +5,9 @@ using System.Text;
 using Castle.ActiveRecord;
 using Ninject;
 using NUnit.Framework;
+using Redux.Web.Config;
+using Redux.Web.Config.Modules;
 using Redux.Web.Domain.UserAccount;
-using Redux.Web.Shared;
-using Redux.Web.Shared.Modules;
 
 namespace Redux.Web.Test
 {
@@ -15,7 +15,7 @@ namespace Redux.Web.Test
     {
         public AbstractModelTestCase()
         {
-            IKernel kernel = new StandardKernel(new DomainModule());
+            IKernel kernel = new StandardKernel(new DomainModule(), new ServiceModule());
             UserAccountRepository = kernel.Get<IUserAccountRepository>();
         }
 

@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using Ninject.Modules;
 using Redux.Web.Domain.UserAccount;
 using Redux.Web.Repositories;
 using ReduxArch.Data.Interface;
 
-namespace Redux.Web.Shared.Modules
+namespace Redux.Web.Config.Modules
 {
     public class DomainModule : NinjectModule
     {
