@@ -1,8 +1,0 @@
-<Modules>
-  <Module PersistentId="F72E3B66-67A0-4B9B-AFB8-A5CD8B8616FD" ModuleId="Redux.Web.Domain" />
-  <Module PersistentId="E0EEC577-5EF1-42E0-96A6-0B1A47A0E7D9" ModuleId="Redux.Web.Shared" />
-  <Module PersistentId="DACFFD0C-6C05-40B1-AD4A-840ED51B990C" ModuleId="Redux.Web.Repositories" />
-  <Module PersistentId="AE5A7F61-2D62-4594-8EEF-9000786E12FE" ModuleId="Redux.Web.Tests" />
-  <Module PersistentId="EF5D2545-3B9E-4104-918D-D8E725CCE305" ModuleId="Redux.Web.UI" />
-  <Module PersistentId="A8AE9050-AEA7-4195-BAE9-0777BCED44A0" ModuleId="Redux.Web.Membership" />
-</Modules>

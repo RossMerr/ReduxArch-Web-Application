@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux.Web.UI", "Redux.Web.UI\Redux.Web.UI.csproj", "{EF5D2545-3B9E-4104-918D-D8E725CCE305}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux.Web.Repositories", "Redux.Web.Repositories\Redux.Web.Repositories.csproj", "{DACFFD0C-6C05-40B1-AD4A-840ED51B990C}"
